@@ -1,0 +1,3 @@
+{
+  "rooms": ["Start", "End", "walljumpUP", "DownRamp", "LongStraight", "Right_45", "Left_45"]
+}
