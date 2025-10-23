@@ -1,4 +1,5 @@
 {
   "type": "webm",
-  "HasThumbnail": true
+  "HasThumbnail": true,
+  "UseVideoInstead": false
 }
